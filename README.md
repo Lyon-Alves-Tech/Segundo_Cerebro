@@ -1,4 +1,4 @@
-# Segundo_Cerebro
+# Segundo_Cérebro
 Estrutura para Obsidian&amp;IA. 
 
 ## 1. O que é este projeto
