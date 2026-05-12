@@ -1,0 +1,35 @@
+# Obsidian — arquivos voláteis de workspace (não versionar)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/starred.json
+
+# Obsidian — configurações que SIM devem ser versionadas
+# (plugins instalados, hotkeys, temas, snippets CSS)
+# Mantenha .obsidian/plugins/, .obsidian/themes/, .obsidian/snippets/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Pasta de arquivos brutos pré-ingestão (opcional — crie se quiser)
+_inbox/
+_arquivo/
+_backup/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*~
+
+# PDFs e fontes brutas (opcional — descomente se não quiser versionar)
+# raw/
+# *.pdf
+
+# Node / npm (caso use ferramentas JS no vault)
+node_modules/
