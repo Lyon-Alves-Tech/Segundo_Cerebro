@@ -60,8 +60,6 @@ writing-wiki/
 
 ## Para quem é este template
 
-- Pesquisadores de pós-graduação (mestrado, doutorado)
-- Autores de livros acadêmicos ou de não-ficção densa
 - Qualquer pessoa que escreve textos longos com muitas referências e um argumento central
 
 ---
@@ -74,12 +72,6 @@ writing-wiki/
 
 ---
 
-## Licença
-
-MIT — use, modifique e redistribua livremente.
-=======
-# Segundo_Cérebro
-Estrutura para Obsidian&amp;IA. 
 
 ## 1. O que é este projeto
 
